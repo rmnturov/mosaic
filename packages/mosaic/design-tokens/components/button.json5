@@ -5,10 +5,10 @@
                 shadow: { value: 'inset 0 1px 2px 0 rgba(black, 0.2)' }
             },
             primary: {
-                color: { value: '{light-color-scheme.primary.palette.value.contrast.500.value}' },
-                border: { value: '{light-color-scheme.primary.palette.value.560.value}' },
+                color: { value: '{light-color-scheme.foreground.text.value}' },
+                border: { value: '{light-color-scheme.primary.palette.value.500.value}' },
                 background: { value: '{light-color-scheme.primary.palette.value.500.value}' },
-                icon: { value: '{light-color-scheme.primary.palette.value.contrast.500.value}' },
+                icon: { value: '{light-color-scheme.foreground.text.value}' },
 
                 states: {
                     active: {

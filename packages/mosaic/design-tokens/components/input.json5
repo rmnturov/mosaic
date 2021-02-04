@@ -1,7 +1,7 @@
 {
     input: {
         size: {
-            padding: { value: '5px 16px' },
+            padding: { value: '13px 19px' },
             width: { value: '100%' },
             'min-height': { value: '30px' }
         },

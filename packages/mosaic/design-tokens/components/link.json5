@@ -1,10 +1,10 @@
 {
     link: {
         'light-color-scheme': {
-            text: { value: '{light-color-scheme.primary.default.value}' },
+            text: { value: '{light-color-scheme.info.default.value}' },
 
             'state-hover': {
-                text: { value: '{light-color-scheme.primary.palette.value.600.value}' }
+                text: { value: '{light-color-scheme.info.palette.value.600.value}' }
             },
             'state-focused': {
                 outline: { value: '{light-color-scheme.states.focused-color.value}' }
